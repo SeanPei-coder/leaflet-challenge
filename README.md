@@ -8,20 +8,19 @@ The USGS is interested in building a new set of tools that will allow them visua
 
 
 
-
-I created a map using Leaflet that plots all of the earthquakes from the data set based on their longitude and latitude.
-
-
-The data markers reflect the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes appear larger and darker in color.
+## Steps
+- Created a map using Leaflet that plots all of the earthquakes from the data set based on their longitude and latitude.
 
 
-I included popups that provide additional information about the earthquake when a marker is clicked.
+- The data markers reflect the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes appear larger and darker in color.
 
 
-I created a legend that provides context for the map data.
+- Included popups that provide additional information about the earthquake when a marker is clicked.
 
 
-I plotted a second data set on the map to illustrate the relationship between tectonic plates and seismic activity. 
+- Created a legend that provides context for the map data.
+
+- Plotted a second data set on the map to illustrate the relationship between tectonic plates and seismic activity. 
 
 ![Alt Text](https://github.com/SeanPei-coder/leaflet-challenge/blob/main/image/Demo.png)
 
