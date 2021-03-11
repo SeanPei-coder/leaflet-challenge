@@ -1,5 +1,5 @@
 # leaflet-challenge
-
+![Alt Text](https://github.com/SeanPei-coder/leaflet-challenge/blob/main/image/leaflet-demo.gif)
 
 ## Background
 Welcome to the United States Geological Survey, or USGS for short! The USGS is responsible for providing scientific data about natural hazards, the health of our ecosystems and environment; and the impacts of climate and land-use change. Their scientists develop new methods and tools to supply timely, relevant, and useful information about the Earth and its processes.
@@ -22,5 +22,5 @@ The USGS is interested in building a new set of tools that will allow them visua
 
 - Plotted a second data set on the map to illustrate the relationship between tectonic plates and seismic activity. 
 
-![Alt Text](https://github.com/SeanPei-coder/leaflet-challenge/blob/main/image/Demo.png)
+
 
